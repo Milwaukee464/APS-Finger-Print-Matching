@@ -57,7 +57,8 @@ class FingerprintMatcher:
             self.sample = cv2.cvtColor(np.array(pil_image), cv2.COLOR_RGB2BGR)
 
             if self.sample is None:
-                messagebox.showerror("Error", "Could not load image. Please check the file format or path.")
+                messagebox.showerror("Error",
+                                     "Could not load image. Please check the file format or path.")
                 return
             self.filename_label.config(text=f"Selected File: {filepath}")
             print(f"Image loaded successfully from: {filepath}\n")
@@ -70,7 +71,8 @@ class FingerprintMatcher:
             return
 
         if not os.path.exists("SOCOFing/Real"):
-            messagebox.showerror("Error", "Directory 'SOCOFing/Real' does not exist. Please check the path.")
+            messagebox.showerror("Error",
+                                 "Directory 'SOCOFing/Real' does not exist. Please check the path.")
             return
 
         start_time = time.time()
@@ -79,7 +81,8 @@ class FingerprintMatcher:
         self.best_image = None
         self.kp1, self.kp2, self.mp = None, None, None
 
-        for file in [file for file in os.listdir("SOCOFing/Real") if file.lower().endswith(('.bmp', '.jpg', '.png'))][:1000]:
+        for file in [file for file in os.listdir("SOCOFing/Real") if file.lower()
+                .endswith(('.bmp', '.jpg', '.png'))][:1000]:
             print(f"Processing file: {file}")
             finger_print_img_path = os.path.join("SOCOFing/Real", file)
             pil_image = Image.open(finger_print_img_path).convert("RGB")
@@ -130,12 +133,14 @@ class FingerprintMatcher:
             self.result_label.pack()
 
             self.result_text.set(
-                f"BEST MATCH FOUND: {self.best_filename}\nSCORE: {self.best_Score:.2f}\nEXEC TIME: {exec_time:.4f} seconds")
+                f"BEST MATCH FOUND: {self.best_filename}\nSCORE: {self.best_Score:.2f}\nEXEC TIME: "
+                f"{exec_time:.4f} seconds")
         else:
             self.result_text.set("No match found.")
             print("No match found after processing all files.")
 
-        print(f"\nBEST MATCH FOUND: {self.best_filename}\nSCORE: {self.best_Score:.2f}\nEXEC TIME: {exec_time:.4f} seconds")
+        print(f"\nBEST MATCH FOUND: {self.best_filename}\nSCORE: {self.best_Score:.2f}\nEXEC TIME:"
+              f" {exec_time:.4f} seconds")
 
 
 if __name__ == "__main__":
