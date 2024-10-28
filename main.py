@@ -15,7 +15,7 @@ class FingerprintMatcher:
         self.best_image = None
         self.kp1, self.kp2, self.mp = None, None, None
 
-        # Configuração da janela GUI
+        # GUI window config
         self.root.title("Fingerprint Matching")
         self.root.geometry("800x550")
         self.root.resizable(False, False)
@@ -24,28 +24,28 @@ class FingerprintMatcher:
         photo = tk.PhotoImage(file='img/fingerprint-scan.png')
         self.root.wm_iconphoto(False, photo)
 
-        # Componentes da GUI
+        # GUI specs
         self.filename_label = tk.Label(self.root, text="No file selected", bg='gray20', fg='white')
         self.filename_label.pack(pady=(20, 10))
 
-        # Frame para organizar os botões lado a lado
+        # Frame to organize buttons side by side
         button_frame = tk.Frame(self.root, bg='gray20')
         button_frame.pack(pady=(5, 20))
 
-        # Botões dentro do frame
+        # Buttons inside the frame
         select_button = tk.Button(button_frame, text="Select Image", command=self.select_image, width=15)
         select_button.pack(side=tk.LEFT, padx=10)
 
         run_button = tk.Button(button_frame, text="Run Matching", command=self.run_fingerprint_matching, width=15)
         run_button.pack(side=tk.LEFT, padx=10)
 
-        # Texto para exibir os resultados
+        # Text to display results
         self.result_text = tk.StringVar()
         self.result_text.set("Results will appear here.")
         result_label_text = tk.Label(self.root, textvariable=self.result_text, bg='gray20', fg='white')
         result_label_text.pack(pady=10)
 
-        # Label para exibir a imagem de resultado
+        # Label to display the result image
         self.result_label = tk.Label(self.root, bg='gray20')
         self.result_label.pack(padx=20)
 
