@@ -21,7 +21,7 @@ class FingerprintMatcher:
         self.root.resizable(False, False)
         self.root.configure(bg='gray20')
 
-        photo = tk.PhotoImage(file='fingerprint-scan.png')
+        photo = tk.PhotoImage(file='img/fingerprint-scan.png')
         self.root.wm_iconphoto(False, photo)
 
         # Componentes da GUI
