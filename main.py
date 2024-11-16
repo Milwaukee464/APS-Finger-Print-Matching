@@ -29,8 +29,8 @@ class FingerprintMatcher:
         self.root.configure(bg='gray20')
 
         # Icon and Labels
-        photo = tk.PhotoImage(file='img/fingerprint-scan.png')
-        self.root.wm_iconphoto(False, photo)
+        #photo = tk.PhotoImage(file='fingerprint.png')
+        #self.root.wm_iconphoto(False, photo)
 
         self.filename_label = tk.Label(self.root, text="No file selected", bg='gray20', fg='white')
         self.filename_label.pack(pady=(20, 10))
