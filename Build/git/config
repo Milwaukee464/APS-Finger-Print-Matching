@@ -1,0 +1,19 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "APS-Finger-Print-Matching"]
+	url = https://github.com/Milwaukee464/APS-Finger-Print-Matching
+	fetch = +refs/heads/*:refs/remotes/APS-Finger-Print-Matching/*
+[branch "master"]
+	remote = APS-Finger-Print-Matching
+	merge = refs/heads/master
+[gui]
+	wmstate = iconic
+	geometry = 893x435+130+130 175 196
+[remote "img"]
+	url = https://github.com/Milwaukee464/APS-Finger-Print-Matching/tree/master
+	fetch = +refs/heads/*:refs/remotes/img/*
