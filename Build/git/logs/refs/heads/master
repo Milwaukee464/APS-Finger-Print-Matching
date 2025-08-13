@@ -1,0 +1,21 @@
+0000000000000000000000000000000000000000 b3f00fe873d3664c02cd6484ad14bd5c3e2e61c0 Milwaukee <rafa.sp1@hotmail.com> 1730072357 -0300	commit (initial): final result
+b3f00fe873d3664c02cd6484ad14bd5c3e2e61c0 31aaa31b299eccd3fa307f95052917f370c76bbf Milwaukee <rafa.sp1@hotmail.com> 1730072574 -0300	rebase (finish): refs/heads/master onto cd898b01dc229716bea09c2f31b15323f5b94ea3
+31aaa31b299eccd3fa307f95052917f370c76bbf c032cec1d2d5a355180dcb6555f44a10bd386c11 Milwaukee <rafa.sp1@hotmail.com> 1730073354 -0300	commit: the entire finger print dataset
+c032cec1d2d5a355180dcb6555f44a10bd386c11 1f844deebb5700da0f746d27dd9b085d5c128413 Milwaukee <rafa.sp1@hotmail.com> 1730073885 -0300	commit: the requirements for run this project
+1f844deebb5700da0f746d27dd9b085d5c128413 e3e5b4ae504522de4f7af4a7179a3e5629e6de37 Milwaukee <rafa.sp1@hotmail.com> 1730126213 -0300	commit: renamed Poo for main
+e3e5b4ae504522de4f7af4a7179a3e5629e6de37 0aea5f38d657186731c92fee25742195c887e6da Milwaukee <rafa.sp1@hotmail.com> 1730126349 -0300	commit: a few changes in main file
+0aea5f38d657186731c92fee25742195c887e6da 0887da919c50b1674296b52e0e3b9919d6e5a7fa Milwaukee <rafa.sp1@hotmail.com> 1730126697 -0300	commit: the finger print logo now is inside of img folder
+0887da919c50b1674296b52e0e3b9919d6e5a7fa 007a34027c99090b541f2ee75b7303205628a238 Milwaukee <rafa.sp1@hotmail.com> 1730127864 -0300	commit: all unversioned files
+007a34027c99090b541f2ee75b7303205628a238 a95156932b4e6cd53a74ff5eb89bfe3cc7f9b522 Milwaukee <rafa.sp1@hotmail.com> 1730127941 -0300	commit: finger print logo .png
+a95156932b4e6cd53a74ff5eb89bfe3cc7f9b522 1216327d0a8ae9121568128e07aa31a98cc4caa1 Milwaukee <rafa.sp1@hotmail.com> 1730128220 -0300	commit: a few changes on coment lines
+1216327d0a8ae9121568128e07aa31a98cc4caa1 8c57a76e852666981b1e9bd2c87edd68d15e3c0f Milwaukee <rafa.sp1@hotmail.com> 1730129041 -0300	commit: renamed SOCOFing to database
+8c57a76e852666981b1e9bd2c87edd68d15e3c0f d7d56cd302aceb5b357544b2797015a5f8f90219 Milwaukee <rafa.sp1@hotmail.com> 1730482468 -0300	commit: docker and main file was ajusted
+d7d56cd302aceb5b357544b2797015a5f8f90219 bd4ef9fdad398c9937cc87a81f6f2d8070366a38 Milwaukee <rafa.sp1@hotmail.com> 1730483020 -0300	commit: a few changes for docker and requirements.txt
+bd4ef9fdad398c9937cc87a81f6f2d8070366a38 10e6b82082995efd6b2b58cfb91d23ab63df4cf3 Milwaukee <rafa.sp1@hotmail.com> 1730487145 -0300	commit: no more Dockerfile
+10e6b82082995efd6b2b58cfb91d23ab63df4cf3 728b6c0d33d24cec50dc5eedeaa17683ed748568 Milwaukee <rafa.sp1@hotmail.com> 1730487381 -0300	commit: no more database folder with all images
+728b6c0d33d24cec50dc5eedeaa17683ed748568 0c88a947381752a7e9e9d370c30f67a000f5d560 Milwaukee <rafa.sp1@hotmail.com> 1730487683 -0300	commit: no more requirements.txt
+0c88a947381752a7e9e9d370c30f67a000f5d560 2742f396ce19cf8a7bcde9ee869a99f47b47ca09 Milwaukee <rafa.sp1@hotmail.com> 1730489195 -0300	commit: ...
+2742f396ce19cf8a7bcde9ee869a99f47b47ca09 436ac3be6a57aa1cc04e8261457e10fa8d537f26 Milwaukee <rafa.sp1@hotmail.com> 1731733075 -0300	commit: I get back, and decided to get off the finger print icon, cause it was causing an error while compiling the code to .exe file :(
+436ac3be6a57aa1cc04e8261457e10fa8d537f26 afa0769b219db79324c2f29384d2caf82039d64f Milwaukee <rafa.sp1@hotmail.com> 1731734771 -0300	commit: I get back, and decided to get off the finger print icon, cause it was causing an error while compiling the code to .exe file :(
+afa0769b219db79324c2f29384d2caf82039d64f 6f8bd95b503bde7ad6f2c11ac0ef4d14ec969da1 Milwaukee <rafa.sp1@hotmail.com> 1731786030 -0300	commit: i rid of the finger print icon, now its just showing the normal tk inter icon
+6f8bd95b503bde7ad6f2c11ac0ef4d14ec969da1 742409f95da3fc44eadb79dc3bb7bbe8d64839a5 Milwaukee <rafa.sp1@hotmail.com> 1731786412 -0300	commit: the build and essential files to .exe python file
