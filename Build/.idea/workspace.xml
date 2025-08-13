@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0da6440c-e83c-487a-83e5-d6a0c675b7f4" name="Changes" comment="the build and essential files to .exe python file">
+      <change beforePath="$PROJECT_DIR$/SOCOFing/Real/13__F_Left_little_finger.BMP" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOCOFing/Real/1__M_Left_index_finger.BMP" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOCOFing/Real/3__M_Right_thumb_finger.BMP" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dockerfile" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2mG6OykK00ZkwyFWyre1fDQCLOQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.AKAZE.executor": "Run",
+    "Python.Comp.executor": "Run",
+    "Python.ConsoleGUI.executor": "Run",
+    "Python.Copy.executor": "Run",
+    "Python.GUI.executor": "Run",
+    "Python.GUItest.executor": "Run",
+    "Python.ORB.executor": "Run",
+    "Python.Poo.executor": "Run",
+    "Python.Progress.executor": "Run",
+    "Python.SIFT.executor": "Run",
+    "Python.icontest.executor": "Run",
+    "Python.main (1).executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.main2.executor": "Run",
+    "Python.progress_bar.executor": "Run",
+    "Python.siftObjectOriented.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.test2.executor": "Run",
+    "Python.test3.executor": "Run",
+    "Python.testScore.executor": "Run",
+    "Python.testScoreOrb.executor": "Run",
+    "Python.testTQDM.executor": "Run",
+    "Python.testTime.executor": "Run",
+    "Python.test_progress.executor": "Run",
+    "Python.test_random.executor": "Run",
+    "Python.time.executor": "Run",
+    "Python.tqdm.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/rafas/OneDrive/Área de Trabalho/aps reformuled",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rafas\OneDrive\Área de Trabalho\Finger Print Matching" />
+      <recent name="C:\Users\rafas\OneDrive\Área de Trabalho\Finger Print Matching\img" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="icontest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Finger Print Matching" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/icontest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Finger Print Matching" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Finger Print Matching" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Finger Print Matching" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Finger Print Matching" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.icontest" />
+        <item itemvalue="Python.test3" />
+        <item itemvalue="Python.test2" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0da6440c-e83c-487a-83e5-d6a0c675b7f4" name="Changes" comment="" />
+      <created>1726690538216</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726690538216</updated>
+      <workItem from="1726690539251" duration="3388000" />
+      <workItem from="1726697045684" duration="1327000" />
+      <workItem from="1726951169397" duration="2402000" />
+      <workItem from="1726959582560" duration="4697000" />
+      <workItem from="1727041364834" duration="8000" />
+      <workItem from="1727104285780" duration="676000" />
+      <workItem from="1727104975706" duration="7000" />
+      <workItem from="1727110646808" duration="2251000" />
+      <workItem from="1727112923963" duration="11000" />
+      <workItem from="1728153297297" duration="2410000" />
+      <workItem from="1728401376449" duration="226000" />
+      <workItem from="1728565531608" duration="4506000" />
+      <workItem from="1728757048654" duration="11000" />
+      <workItem from="1729358726496" duration="5091000" />
+      <workItem from="1729630394980" duration="8000" />
+      <workItem from="1729803957321" duration="42000" />
+      <workItem from="1729870414279" duration="3279000" />
+      <workItem from="1729873731570" duration="7548000" />
+      <workItem from="1729942125253" duration="3713000" />
+      <workItem from="1730055438248" duration="5289000" />
+      <workItem from="1730072076292" duration="4955000" />
+      <workItem from="1730126072365" duration="5902000" />
+      <workItem from="1730164839728" duration="423000" />
+      <workItem from="1730479689950" duration="6520000" />
+      <workItem from="1730523378946" duration="1193000" />
+      <workItem from="1730539616792" duration="618000" />
+      <workItem from="1730590885849" duration="715000" />
+      <workItem from="1730669233219" duration="1252000" />
+      <workItem from="1730772588921" duration="132000" />
+      <workItem from="1730818880548" duration="1205000" />
+      <workItem from="1730946271279" duration="601000" />
+      <workItem from="1731201040667" duration="5000" />
+      <workItem from="1731260195651" duration="7932000" />
+      <workItem from="1731727450666" duration="5904000" />
+      <workItem from="1731785407433" duration="1648000" />
+      <workItem from="1731877033592" duration="607000" />
+      <workItem from="1731881559534" duration="2637000" />
+      <workItem from="1731912859789" duration="14000" />
+      <workItem from="1732013972594" duration="86000" />
+    </task>
+    <task id="LOCAL-00001" summary="final result">
+      <option name="closed" value="true" />
+      <created>1730072451553</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730072451553</updated>
+    </task>
+    <task id="LOCAL-00002" summary="the entire finger print dataset">
+      <option name="closed" value="true" />
+      <created>1730073443110</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730073443110</updated>
+    </task>
+    <task id="LOCAL-00003" summary="the requirements for run this project">
+      <option name="closed" value="true" />
+      <created>1730073897786</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730073897786</updated>
+    </task>
+    <task id="LOCAL-00004" summary="renamed Poo for main">
+      <option name="closed" value="true" />
+      <created>1730126216104</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730126216104</updated>
+    </task>
+    <task id="LOCAL-00005" summary="a few changes in main file">
+      <option name="closed" value="true" />
+      <created>1730126351415</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730126351415</updated>
+    </task>
+    <task id="LOCAL-00006" summary="the finger print logo now is inside of img folder">
+      <option name="closed" value="true" />
+      <created>1730126700420</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730126700420</updated>
+    </task>
+    <task id="LOCAL-00007" summary="all unversioned files">
+      <option name="closed" value="true" />
+      <created>1730127868277</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1730127868277</updated>
+    </task>
+    <task id="LOCAL-00008" summary="finger print logo .png">
+      <option name="closed" value="true" />
+      <created>1730127942912</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1730127942912</updated>
+    </task>
+    <task id="LOCAL-00009" summary="a few changes on coment lines">
+      <option name="closed" value="true" />
+      <created>1730128221608</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1730128221608</updated>
+    </task>
+    <task id="LOCAL-00010" summary="renamed SOCOFing to database">
+      <option name="closed" value="true" />
+      <created>1730129051592</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1730129051592</updated>
+    </task>
+    <task id="LOCAL-00011" summary="docker and main file was ajusted">
+      <option name="closed" value="true" />
+      <created>1730482476757</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1730482476757</updated>
+    </task>
+    <task id="LOCAL-00012" summary="a few changes for docker and requirements.txt">
+      <option name="closed" value="true" />
+      <created>1730483022055</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1730483022055</updated>
+    </task>
+    <task id="LOCAL-00013" summary="no more Dockerfile">
+      <option name="closed" value="true" />
+      <created>1730487146970</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1730487146970</updated>
+    </task>
+    <task id="LOCAL-00014" summary="no more database folder with all images">
+      <option name="closed" value="true" />
+      <created>1730487394765</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1730487394765</updated>
+    </task>
+    <task id="LOCAL-00015" summary="no more requirements.txt">
+      <option name="closed" value="true" />
+      <created>1730487685480</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1730487685480</updated>
+    </task>
+    <task id="LOCAL-00016" summary="...">
+      <option name="closed" value="true" />
+      <created>1730489203548</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1730489203548</updated>
+    </task>
+    <task id="LOCAL-00017" summary="I get back, and decided to get off the finger print icon, cause it was causing an error while compiling the code to .exe file :(">
+      <option name="closed" value="true" />
+      <created>1731733079340</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1731733079340</updated>
+    </task>
+    <task id="LOCAL-00018" summary="I get back, and decided to get off the finger print icon, cause it was causing an error while compiling the code to .exe file :(">
+      <option name="closed" value="true" />
+      <created>1731734773564</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1731734773564</updated>
+    </task>
+    <task id="LOCAL-00019" summary="i rid of the finger print icon, now its just showing the normal tk inter icon">
+      <option name="closed" value="true" />
+      <created>1731786032902</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1731786032902</updated>
+    </task>
+    <task id="LOCAL-00020" summary="the build and essential files to .exe python file">
+      <option name="closed" value="true" />
+      <created>1731786413477</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1731786413477</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="final result" />
+    <MESSAGE value="the entire finger print dataset" />
+    <MESSAGE value="the requirements for run this project" />
+    <MESSAGE value="renamed Poo for main" />
+    <MESSAGE value="a few changes in main file" />
+    <MESSAGE value="the finger print logo now is inside of img folder" />
+    <MESSAGE value="all unversioned files" />
+    <MESSAGE value="finger print logo .png" />
+    <MESSAGE value="a few changes on coment lines" />
+    <MESSAGE value="renamed SOCOFing to database" />
+    <MESSAGE value="docker and main file was ajusted" />
+    <MESSAGE value="a few changes for docker and requirements.txt" />
+    <MESSAGE value="no more Dockerfile" />
+    <MESSAGE value="no more database folder with all images" />
+    <MESSAGE value="no more requirements.txt" />
+    <MESSAGE value="..." />
+    <MESSAGE value="I get back, and decided to get off the finger print icon, cause it was causing an error while compiling the code to .exe file :(" />
+    <MESSAGE value="i rid of the finger print icon, now its just showing the normal tk inter icon" />
+    <MESSAGE value="the build and essential files to .exe python file" />
+    <option name="LAST_COMMIT_MESSAGE" value="the build and essential files to .exe python file" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Finger_Print_Matching$ConsoleGUI.coverage" NAME="ConsoleGUI Coverage Results" MODIFIED="1729874992543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Finger_Print_Matching$test_progress.coverage" NAME="test_progress Coverage Results" MODIFIED="1730482366871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Finger_Print_Matching$Comp.coverage" NAME="Comp Coverage Results" MODIFIED="1730127755205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Finger_Print_Matching$GUItest.coverage" NAME="GUItest Coverage Results" MODIFIED="1730127720462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Finger_Print_Matching$testTime.coverage" NAME="testTime Coverage Results" MODIFIED="1730127467332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Finger_Print_Matching$ORB.coverage" NAME="ORB Coverage Results" MODIFIED="1729870795834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Finger_Print_Matching$GUI.coverage" NAME="GUI Coverage Results" MODIFIED="1730127707073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Finger_Print_Matching$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1731261849938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Finger_Print_Matching$AKAZE.coverage" NAME="AKAZE Coverage Results" MODIFIED="1728567570712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Finger_Print_Matching$testScoreOrb.coverage" NAME="testScoreOrb Coverage Results" MODIFIED="1729876112208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Finger_Print_Matching$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1730126629436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Finger_Print_Matching$testScore.coverage" NAME="testScore Coverage Results" MODIFIED="1730127666788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Finger_Print_Matching$Progress.coverage" NAME="Progress Coverage Results" MODIFIED="1729872667106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Finger_Print_Matching$Poo.coverage" NAME="Poo Coverage Results" MODIFIED="1730072236253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Finger_Print_Matching$testTQDM.coverage" NAME="testTQDM Coverage Results" MODIFIED="1729871843807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Finger_Print_Matching$time.coverage" NAME="time Coverage Results" MODIFIED="1729360645674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Finger_Print_Matching$test.coverage" NAME="test Coverage Results" MODIFIED="1731261403392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Finger_Print_Matching$Copy.coverage" NAME="Copy Coverage Results" MODIFIED="1729944524985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Finger_Print_Matching$main.coverage" NAME="main Coverage Results" MODIFIED="1731888767709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Finger_Print_Matching$SIFT.coverage" NAME="SIFT Coverage Results" MODIFIED="1730127772644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Finger_Print_Matching$tqdm.coverage" NAME="tqdm Coverage Results" MODIFIED="1729872125606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Finger_Print_Matching$icontest.coverage" NAME="icontest Coverage Results" MODIFIED="1731734715661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Finger_Print_Matching$test_random.coverage" NAME="test_random Coverage Results" MODIFIED="1728566173672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Finger_Print_Matching$progress_bar.coverage" NAME="progress_bar Coverage Results" MODIFIED="1728567760768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Finger_Print_Matching$siftObjectOriented.coverage" NAME="siftObjectOriented Coverage Results" MODIFIED="1730127803740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Finger_Print_Matching$main2.coverage" NAME="main2 Coverage Results" MODIFIED="1730127563711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Finger_Print_Matching$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1731261535138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
